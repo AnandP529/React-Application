@@ -12,7 +12,7 @@ class Navbar extends React.Component{
             <React.Fragment>
                 <nav className="navbar navbar-dark bg-dark navbar-expand-sm mt-3">
                     <div className="container ">
-                        <a href="/" className="navbar-brand">React Routing</a>
+                        <a href="/" className="navbar-brand">React Application</a>
                         <div className="collapse navbar-collapse justify-content-center">
                             <ul className="navbar-nav mx-auto">
                                 <li className="navbar-item px-2">
