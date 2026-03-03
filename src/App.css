@@ -89,7 +89,7 @@
   margin-left: 20px;
 }
 .landing-page{
-  background: white url("assets/bg-img.jpg") no-repeat scroll center;
+  background: white url("./assets/bg-img.jpg") no-repeat scroll center;
   height: 100vh;
   background-size: cover;
   color: white;
