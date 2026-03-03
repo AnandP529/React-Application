@@ -1,0 +1,8 @@
+                        App.js
+                            |
+                        GithubSearchApp
+                       /        |           \
+            GithubSearch    GithubProfile     GithubRepos
+                             /    |   \
+                GithubProfileCard     GithubProfileDetails 
+                              

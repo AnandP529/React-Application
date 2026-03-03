@@ -1,0 +1,101 @@
+/* Center menu */
+.nav-center {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  gap: 20px;
+}
+
+/* Center links style */
+.navbar-info {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+.navbar-info:hover {
+  color:yellowgreen;
+  text-decoration: underline;
+}
+
+/* Right-side buttons */
+.nav-actions {
+  display: flex;
+}
+
+.nav-btn {
+  margin-left: 10px;
+  font-size: 13px;
+  padding: 4px 12px;
+  border-radius: 14px;
+}
+
+.btn.btn-primary.nav-btn:hover {
+  background-color: yellowgreen;
+  border-color: yellowgreen;
+  color: #000;
+}
+
+
+.navbar.navbar-dark .navbar-brand {
+  color: white;
+}
+
+.navbar.navbar-dark .navbar-brand:hover {
+  color: yellowgreen;
+}
+
+/* Your custom styles */
+
+.btn-primary, .bg-primary {
+  background: linear-gradient(45deg, black, blueviolet);
+}
+
+.btn-secondary, .bg-secondary {
+  background: linear-gradient(45deg, black, purple);
+}
+
+.btn-success, .bg-success {
+  background: linear-gradient(45deg, black, limegreen);
+}
+
+.btn-info, .bg-info {
+  background: linear-gradient(45deg, black, lightblue);
+}
+
+.btn-warning, .bg-warning {
+  background: linear-gradient(45deg, black, orange);
+}
+
+.btn-danger, .bg-danger {
+  background: linear-gradient(45deg, black, red);
+}
+
+.btn-light, .bg-light {
+  background: linear-gradient(45deg, darkgray, gray);
+}
+
+.btn-dark, .bg-dark {
+  background: linear-gradient(45deg, black, darkslategray);
+}
+.table tbody tr td{
+  font-weight: bold;
+}
+.contact-img{
+  margin-top: -70px;
+}
+.card {
+  margin-left: 20px;
+}
+.landing-page{
+  background: white url("assets/bg-img.jpg") no-repeat scroll center;
+  height: 100vh;
+  background-size: cover;
+  color: white;
+  
+}
+.wrapper{
+  background-color: rgba(0,0,0,0.8);
+  height: 100%;
+}
